@@ -99,7 +99,6 @@ Execute the programs and publish them.
 
 ## OUTPUT
 
-![alt text](<Screenshot 2025-12-24 154728.png>)
 ![alt text](<Screenshot 2025-12-24 160753.png>)
 ![alt text](<Screenshot 2025-12-24 160818.png>)
 ![alt text](<Screenshot 2025-12-24 160833.png>)
